@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub?share=true)
-- Live Site URL: (https://mooogz.github.io/interactive-rating-component/)
+- Live Site URL: (https://mooogz.github.io/product-preview-card-component/)
 
 ### Built with
 
